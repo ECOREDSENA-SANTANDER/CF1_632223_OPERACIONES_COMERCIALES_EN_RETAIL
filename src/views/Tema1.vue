@@ -303,7 +303,7 @@
       .col-lg-12.col-md-12.col-12.px-lg-5.px-4
         .row.justify-content-center.mb-4
         
-        .tarjeta.p-3.mb-4
+        .tarjetaf.p-3.mb-4
           SlyderA(tipo="b").slider-a-custom(data-aos="zoom-in-left")
             .row.justify-content-center.p-4
               .col-lg-12.col-12.my-3

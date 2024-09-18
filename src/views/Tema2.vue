@@ -349,7 +349,7 @@
     p.mb-4 Cuando eso sucede, es decir, cuando se transporta, la mercancía adquiere la consideración de “carga”. Así, la mercancía se considera una carga desde el momento en que pasa a ser un elemento que va a ser movido y trasladado o enviado desde un punto de origen a otro de destino, para lo que con toda probabilidad deberá ser embalado, manipulado, manejado o almacenado.
     p.mb-4 Las mercancías o productos pueden ser sólidos, líquidos o gaseosos y se clasifican en: 
 
-    .row.justify-content-center.mb-5(data-aos="zoom-in-left")(alt="La imagen expone cómo los bienes materiales se clasifican en cuatro categorías: materias primas, que son sustancias naturales no transformadas; productos en bruto, que requieren acondicionamiento o transporte especializado debido a sus características; semiproductos o productos intermedios, que han pasado por un proceso de transformación y se integrarán en etapas productivas posteriores; y productos elaborados, que son bienes terminados destinados al consumo final tras haber sido transformados a partir de materias primas o productos intermedios.")
+    .row.justify-content-center(data-aos="zoom-in-left")(alt="La imagen expone cómo los bienes materiales se clasifican en cuatro categorías: materias primas, que son sustancias naturales no transformadas; productos en bruto, que requieren acondicionamiento o transporte especializado debido a sus características; semiproductos o productos intermedios, que han pasado por un proceso de transformación y se integrarán en etapas productivas posteriores; y productos elaborados, que son bienes terminados destinados al consumo final tras haber sido transformados a partir de materias primas o productos intermedios.")
       .col-lg-8.col-md-12.col-12
         .titulo-sexto.colorr
           h5 Figura 1. 
@@ -385,14 +385,6 @@
                 h5.text-right.mb-5 Productos elaborados
                 p.text-right Bienes obtenidos mediante un proceso de transformación de materia prima o productos intermedios destinados al consumo final.
             img.img-a.img-t.d-none.d-lg-block.mov4(src='@/assets/curso/tema2/img33.svg', alt='tema1')
-
-
-
-
-
-
-
-
 
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
