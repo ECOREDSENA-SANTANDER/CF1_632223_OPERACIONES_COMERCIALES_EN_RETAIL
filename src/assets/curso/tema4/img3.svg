@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="193" height="204" viewBox="0 0 193 204">
+  <g id="Grupo_1100661" data-name="Grupo 1100661" transform="translate(-283.5 -1502.241)">
+    <rect id="Rectángulo_401813" data-name="Rectángulo 401813" width="190" height="201" rx="40" transform="translate(285 1503.741)" fill="none" stroke="#ff725d" stroke-miterlimit="10" stroke-width="3"/>
+    <g id="Page-1" transform="translate(327.747 1540.741)">
+      <g id="_038---Carton-Date" data-name="038---Carton-Date">
+        <path id="Shape" d="M64.227,64.64V23.351L50.464,5h-36.7L0,23.351v80.284a4.6,4.6,0,0,0,4.588,4.588h59.64Z" transform="translate(0 6.469)" fill="#3b97d3"/>
+        <path id="Shape-2" data-name="Shape" d="M64.227,23.351H0L13.763,5h36.7Z" transform="translate(0 6.469)" fill="#9fc9d3"/>
+        <path id="Shape-3" data-name="Shape" d="M16.414,11.469H6V2.294A2.294,2.294,0,0,1,8.294,0H40.407A2.294,2.294,0,0,1,42.7,2.294v9.175Z" transform="translate(7.763)" fill="#3b97d3"/>
+        <path id="Rectangle-path" d="M0,23H64.227V59.7H0Z" transform="translate(0 29.758)" fill="#2980ba"/>
+        <path id="Shape-4" data-name="Shape" d="M12.175,53.469H5.294A2.294,2.294,0,0,1,3,51.175V44.294a2.294,2.294,0,0,1,4.588,0v4.588h4.588a2.294,2.294,0,0,1,0,4.588Z" transform="translate(3.881 54.341)" fill="#b0d3f0"/>
+        <path id="Shape-5" data-name="Shape" d="M33.232,31.588H10.294a2.294,2.294,0,1,1,0-4.588H33.232a2.294,2.294,0,1,1,0,4.588Z" transform="translate(10.351 34.933)" fill="#9fc9d3"/>
+        <path id="Shape-6" data-name="Shape" d="M26.057,35.588H12.294a2.294,2.294,0,1,1,0-4.588H26.057a2.294,2.294,0,1,1,0,4.588Z" transform="translate(12.938 40.109)" fill="#9fc9d3"/>
+        <circle id="Oval" cx="34.5" cy="34.5" r="34.5" transform="translate(50.506 64.103)" fill="#ff725d"/>
+        <path id="Shape-7" data-name="Shape" d="M54.351,75.583a2.294,2.294,0,0,1-1.622-.672L36.672,58.854A2.294,2.294,0,0,1,36,57.232V34.294a2.294,2.294,0,1,1,4.588,0V56.282L55.972,71.667a2.294,2.294,0,0,1-1.622,3.916Z" transform="translate(46.578 41.403)" fill="#fff"/>
+        <path id="Shape-8" data-name="Shape" d="M10,6v9.175c0,2.523,4.106,4.588,9.175,4.588s9.175-2.064,9.175-4.588V6Z" transform="translate(12.938 7.763)" fill="#f3d55b"/>
+        <path id="Shape-9" data-name="Shape" d="M28.351,8.6c0,2.523-4.106,4.588-9.175,4.588S10,11.121,10,8.6A3.1,3.1,0,0,1,11.239,6.3,12.616,12.616,0,0,1,19.175,4.01,12.616,12.616,0,0,1,27.112,6.3,3.1,3.1,0,0,1,28.351,8.6Z" transform="translate(12.938 5.166)" fill="#f29c1f"/>
+      </g>
+    </g>
+  </g>
+</svg>

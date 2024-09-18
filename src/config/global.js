@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE ',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Manejo de inventarios en el Retail',
+    descripcionCurso:
+      'La logística en retail radica en el conjunto de técnicas necesarias para poder cumplir con el objetivo final de acercar y vender un producto al cliente en su respectiva sala de ventas del formato comercial o retail especializado. Este proceso abarca desde la gestión eficiente del inventario y el almacenamiento, hasta la distribución y transporte del producto, asegurando su disponibilidad en el momento y lugar adecuados.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -12,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
@@ -31,27 +36,108 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Gestión logística de inventarios en el punto de venta',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Conceptos básicos',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Inventario: Concepto, característica, clasificación',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Recursos: Concepto, tipo, herramientas, clases',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Herramientas: Concepto, clases, usos',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Código de barras: Concepto, características, tipos ',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo:
+              'Software para la captura de código de barras: Características, funcionalidad, tipos',
+            hash: 't_1_6',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Gestión de inventario',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Toma física: Concepto, herramientas',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Toma digital: Concepto, herramientas',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Técnicas de conteo: Tipos, características, clases',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo:
+              'Mercancía: Concepto, clases, normativa para manejo de mercancía',
+            hash: 't_2_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Gestión de productos',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Producto: Concepto, naturaleza, atributos, clases',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Referencias: Concepto, tipos',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Rotación: Concepto, procedimiento',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Agotados: Concepto, características',
+            hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo: 'Stock de mercancía: Concepto, niveles, clases, funciones',
+            hash: 't_3_5',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Gestión de devolución',
         desarrolloContenidos: true,
       },
     ],
@@ -102,32 +188,108 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Gestión logística de inventarios en el punto de venta',
+      referencia: 'Puerta, L.F. (s.f.). Seminario de carga.',
+      tipo: 'PDF',
+      link: 'downloads/seminario_de_carga.pdf',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Gestión logística de inventarios en el punto de venta',
+      referencia:
+        'Compartamos banco. (2016). ¿Por qué es importante controlar el inventario de mi negocio? [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://youtu.be/AJaii3mpuJ4',
+    },
+    {
+      tema: 'Gestión de devolución',
+      referencia:
+        'Martínez, I. (2018). Aprende a hacer un formato para devolución de mercancía al almacén.',
+      tipo: 'Video',
+      link: 'https://youtu.be/RMqWGZY-PWM',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Almacén',
+      significado:
+        'lugar en el que se acumulan los productos de la empresa hasta que se venden.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Control',
+      significado:
+        'acción de revisión para comprobar que todo se ajusta a los previsto y añadir las variaciones.',
+    },
+    {
+      termino: 'Demanda',
+      significado:
+        'reclamo del producto de la empresa por parte de su cliente.',
+    },
+    {
+      termino: 'Distribución',
+      significado:
+        'acción de poner a disposición del cliente el producto en el punto de venta.',
+    },
+    {
+      termino: 'Inventario',
+      significado: 'listado ordenado de la mercancía del almacén.',
+    },
+    {
+      termino: 'Materia prima',
+      significado:
+        'aquello que se incorpora al proceso de fabricación o producción y tras su transformación forma parte del producto.',
+    },
+    {
+      termino: 'Producto',
+      significado:
+        'lo que la empresa destina a la venta y forma parte de sus ingresos comerciales.',
+    },
+    {
+      termino: 'Rotura de stock',
+      significado:
+        'se produce cuando la demanda no puede ser satisfecha, ya que no se cuenta con mercancía en el almacén.',
+    },
+    {
+      termino: 'Salida de mercancía',
+      significado:
+        'registro por el que la mercancía sale del almacén de la empresa, principalmente, por las ventas.',
+    },
+    {
+      termino: 'Sistema de clasificación',
+      significado:
+        'sistema implementado en el almacén para ordenar sus existencias.',
+    },
+    {
+      termino: 'Sistema de valoración',
+      significado:
+        'sistema implementado en el almacén para poner precio a sus existencias.',
+    },
+    {
+      termino: 'Stock',
+      significado: 'mercadería que se encuentra en el almacén de la empresa.',
+    },
+    {
+      termino: 'Transporte',
+      significado:
+        'conjunto de acciones que se desarrollan desde que la mercancía sale del almacén de la empresa hasta que llega al cliente.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Céspedes, A. (2010). Principios de mercadeo. Ecoe Ediciones. ',
+      link:
+        'https://archive.org/details/principiosdemerc0000cesp/page/466/mode/2up',
+    },
+    {
+      referencia: 'Kotler, P. (2017). Fundamentos del marketing.',
+      link:
+        'https://frrq.cvg.utn.edu.ar/pluginfile.php/14584/mod_resource/content/1/Fundamentos%20del%20Marketing-Kotler.pdf',
+    },
+    {
+      referencia:
+        'Guía de control de inventarios: qué es, cómo hacerlo y ejemplos. (2023, 19 julio).',
+      link:
+        'https://blog.hubspot.es/sales/que-es-control-de-inventarios#:~:text=El%20control%20de%20inventarios%20es,recursos%20para%20su%20correcto%20almacenaje',
     },
   ],
   creditos: [
@@ -136,13 +298,13 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo: 'Responsable de línea de producción',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -150,9 +312,31 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Jaime Alberto Pérez Posada',
+          cargo: 'Instructor',
+          centro: 'Regional Antioquia – Comercio.',
+        },
+        {
+          nombre: 'Zvi Daniel Grosman',
+          cargo: 'Diseñador instruccional',
+          centro: 'Regional Tolima - Centro Agropecuario La Granja.',
+        },
+        {
+          nombre: 'Ana Catalina Córdoba Sus',
+          cargo: 'Revisora metodológica y pedagógica',
+          centro:
+            'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica.',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Corrector de estilo',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Sandra Paola Morales Páez ',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -160,24 +344,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Yazmin Rocio Figueroa Pacheco',
+          cargo: 'Diseñadora de contenidos digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Pedro Alonso Bolivar Gonzalez',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y productora multimedia',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -185,24 +364,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validador de recursos educativos digitales',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Jaime Hernan Tejada',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
+          nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
