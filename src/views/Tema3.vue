@@ -26,7 +26,7 @@
       h2 3.1 Producto: Concepto, naturaleza, atributos, clases
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.col-md-9.col-9.mb-3
+      .col-lg-4.col-md-7.col-7.mb-3
         img.img-a.img-t(src='@/assets/curso/tema3/img2.png', alt='tema1')
       .col-lg-8.col-md-12.col-12
         .bg1.p-3.mb-3
@@ -39,12 +39,12 @@
             li.d-flex.mb-0
               i.fas.fa-circle
               p.mb-0 #[b Desde el punto de vista comercial,]  un producto es lo que el consumidor recibe cuando realiza una compra.
-        p.mb-3 Para una empresa que participa del concepto de marketing en su sentido más amplio, un bien o servicio es el medio por el cual cumple con su fin primordial: satisfacer necesidades. 
-        p.mb-4 Es lo que la empresa destina a la venta y forma parte de sus ingresos comerciales. Se concibe como un conjunto de atributos tangibles e intangibles y cuando es adquirido por el comprador, este obtiene beneficios emocionales, racionales y sensoriales. 
+        p.mb-3(data-aos="fade-left") Para una empresa que participa del concepto de marketing en su sentido más amplio, un bien o servicio es el medio por el cual cumple con su fin primordial: satisfacer necesidades. 
+        p.mb-4(data-aos="fade-right") Es lo que la empresa destina a la venta y forma parte de sus ingresos comerciales. Se concibe como un conjunto de atributos tangibles e intangibles y cuando es adquirido por el comprador, este obtiene beneficios emocionales, racionales y sensoriales. 
 
-    p.mb-4 En la gestión de productos se encuentran las siguientes clases: 
+    p.mb-4(data-aos="fade-left") En la gestión de productos se encuentran las siguientes clases: 
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-secundario.p-5.h-100
           .tarjeta-numerada__numero
@@ -69,9 +69,9 @@
         .cajon.color-acento-contenido.p-4
           p.mb-0 Kotler (2017), define un producto como cualquier bien que se pueda ofrecer a un mercado para su atención, adquisición, uso o consumo, y que podría satisfacer un deseo o una necesidad.
 
-    p.mb-4 Los atributos de los productos aportan utilidad al consumidor y son percibidos como tal; es decir, tienen la capacidad de satisfacer alguna de las necesidades del consumidor. Son propios de los productos los siguientes aspectos:
+    p.mb-4(data-aos="fade-left") Los atributos de los productos aportan utilidad al consumidor y son percibidos como tal; es decir, tienen la capacidad de satisfacer alguna de las necesidades del consumidor. Son propios de los productos los siguientes aspectos:
 
-    .tarjeta--container.row.mb-5
+    .tarjeta--container.row.mb-5(data-aos="fade-right")
       .col-md.tarjeta.color-primario.bd.p-4
         .row.justify-content-center.mb-4
           h4.text-center Características funcionales
@@ -94,7 +94,7 @@
               img.img-a.img-t(src='@/assets/curso/tema3/img6.svg', alt='Texto que describa la imagen')
         p Son el grupo de aspectos que se concentran en un producto y cuyo objetivo es llenar las expectativas o exigencias del consumidor, sin olvidar que las características pueden ser tangibles e intangibles, dependiendo si se pueden o no percibir por los sentidos. 
     
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-9.col-md-12.col-12
         p.mb-4 Dentro de las características generales de un producto, hay dos divisiones :
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
@@ -139,8 +139,8 @@
     #t_3_2.titulo-segundo.mb-5
       h2 3.2 Referencias: Concepto, tipos
     
-    .row.justify-content-center.align-items-end
-      .col-lg-4.col-md-9.col-9.mb-4
+    .row.justify-content-center.align-items-end(data-aos="fade-right")
+      .col-lg-4.col-md-7.col-7.mb-4
         img.img-a.img-t(src='@/assets/curso/tema3/img7.png', alt='tema1')
       .col-lg-8.col-md-12.col-12.mb-4
         p.mb-4 Al hablar de referencias se hace mención de aquellos productos que buscan llenar una necesidad puntual y específica. Las mismas abarcan el modelo, función, marca, contenido y pueden ser tantas como artículos disponibles.
@@ -152,123 +152,123 @@
     #t_3_3.titulo-segundo.mb-5
       h2 3.3 Rotación: Concepto, procedimiento
       
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-8.col-md-12.col-12.mb-4
         p.mb-3 La rotación productos es un indicador que señala el total de veces que el inventario del almacén y el de la góndola requiere ser suministrado con nuevas existencias.
         p.mb-3 Los productos tienen una constante entrada y salida, con lo que se evitan multitud de pérdidas, como los productos caducados; este procedimiento permite tener en los almacenes productos frescos y con fecha vigentes en la rotación.
         p.mb-3 Ahora bien, la ausencia del producto se conoce como agotado, y se presenta cuando los artículos de consumo no están en condiciones de venta en ningún lugar del punto o cuando no se dispone de estos en el espacio accesible para el comprador.
-      .col-lg-4.col-md-9.col-9.mb-4
+      .col-lg-4.col-md-7.col-7.mb-4
         img.img-a.img-t(src='@/assets/curso/tema3/img8.png', alt='tema1')
 
     separador
     #t_3_4.titulo-segundo.mb-5
       h2 3.4 Agotados: Concepto, características
 
-    p.mb-4 El término "agotados inventarios" se refiere a una situación en la que una empresa no tiene existencias disponibles de uno o más productos en su inventario. Esto ocurre cuando la demanda de los productos supera la oferta disponible, resultando en una falta de stock para satisfacer las necesidades de los clientes.
+    p.mb-4(data-aos="fade-left") El término "agotados inventarios" se refiere a una situación en la que una empresa no tiene existencias disponibles de uno o más productos en su inventario. Esto ocurre cuando la demanda de los productos supera la oferta disponible, resultando en una falta de #[em stock] para satisfacer las necesidades de los clientes.
     
-    .row.justify-content-center.align-items-center
-      .col-lg-4.col-md-9.col-9.mb-4
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
+      .col-lg-4.col-md-6.col-7.mb-4
         img.img-a.img-t(src='@/assets/curso/tema3/img9.svg', alt='tema1')
       .col-lg-8.col-md-12.col-12.col-sm.mb-5.mb-sm-0
         ol.lista-ol--cuadro.lista-ol--separador
-          li 
+          li.d-flex
             .lista-ol--cuadro__vineta
               span A
-            | #[b Falta de Disponibilidad:] No hay existencias de ciertos productos, lo que impide su venta o distribución.
-          li 
+            p.mb-0 #[b Falta de Disponibilidad:] No hay existencias de ciertos productos, lo que impide su venta o distribución.
+          li.d-flex
             .lista-ol--cuadro__vineta
               span B
-            | #[b Pérdida de Ventas:] La ausencia de productos puede llevar a la pérdida de ventas, ya que los clientes no pueden adquirir lo que buscan y pueden recurrir a la competencia.
-          li 
+            p.mb-0 #[b Pérdida de Ventas:] La ausencia de productos puede llevar a la pérdida de ventas, ya que los clientes no pueden adquirir lo que buscan y pueden recurrir a la competencia.
+          li.d-flex 
             .lista-ol--cuadro__vineta
               span C
-            | #[b Impacto en la Satisfacción del Cliente:] La falta de disponibilidad de productos puede afectar negativamente la satisfacción y lealtad del cliente.
-          li 
+            p.mb-0 #[b Impacto en la Satisfacción del Cliente:] La falta de disponibilidad de productos puede afectar negativamente la satisfacción y lealtad del cliente.
+          li.d-flex 
             .lista-ol--cuadro__vineta
               span D
-            | #[b Problemas en la Cadena de Suministro:] Puede ser resultado de problemas en la cadena de suministro, como retrasos en la producción, problemas de transporte o fallos en la gestión de inventarios.
-          li 
+            p.mb-0 #[b Problemas en la Cadena de Suministro:] Puede ser resultado de problemas en la cadena de suministro, como retrasos en la producción, problemas de transporte o fallos en la gestión de inventarios.
+          li.d-flex 
             .lista-ol--cuadro__vineta
               span E
-            | #[b Aumento de Costos:] Las empresas pueden incurrir en costos adicionales al intentar acelerar la reposición de inventarios o al implementar medidas temporales para mitigar el impacto.
-          li 
+            p.mb-0 #[b Aumento de Costos:] Las empresas pueden incurrir en costos adicionales al intentar acelerar la reposición de inventarios o al implementar medidas temporales para mitigar el impacto.
+          li.d-flex 
             .lista-ol--cuadro__vineta
               span F
-            | #[b Oportunidades de Mejora:] La situación de inventarios agotados puede revelar áreas de mejora en la gestión de inventarios, previsión de demanda y eficiencia operativa.
-          li 
+            p.mb-0 #[b Oportunidades de Mejora:] La situación de inventarios agotados puede revelar áreas de mejora en la gestión de inventarios, previsión de demanda y eficiencia operativa.
+          li.d-flex 
             .lista-ol--cuadro__vineta
               span G
-            | #[b Dependencia de Proveedores:] La falta de productos puede destacar la dependencia de ciertos proveedores y la necesidad de diversificar las fuentes de suministro.
-          li 
+            p.mb-0 #[b Dependencia de Proveedores:] La falta de productos puede destacar la dependencia de ciertos proveedores y la necesidad de diversificar las fuentes de suministro.
+          li.d-flex 
             .lista-ol--cuadro__vineta
               span H
-            | #[b Planificación y Estrategia:] Requiere una planificación cuidadosa y la implementación de estrategias para evitar que se repita, como el uso de sistemas de inventario just-in-time o mantener niveles de inventario de seguridad. 
+            p.mb-0 #[b Planificación y Estrategia:] requiere una planificación cuidadosa y la implementación de estrategias para evitar que se repita, como el uso de sistemas de inventario just-in-time o mantener niveles de inventario de seguridad. 
     
     separador
     #t_3_4.titulo-segundo.mb-5
-      h2 3.5 Stock de mercancía
+      h2 3.5 #[em Stock] de mercancía
 
-    p.mb-4 Se denominan stock de una empresa a las mercancías que se encuentran en ella, acumuladas en un lugar determinado, en tránsito o inmersas en el proceso de producción, y cuyo objetivo es su aplicación empresarial en procesos industriales o comerciales.
-    p.mb-4 Se entiende por nivel de stock a la cantidad de existencias de un artículo almacenado en un momento dado, muy puntual para los retailers en las temporadas de Navidad, madre, padre, escolar, entre otras, dependiendo del calendario comercial.
-    p.mb-4 Existen diversas clases de stock de mercancía, a saber: 
+    p.mb-4(data-aos="fade-left") Se denominan #[em stock] de una empresa a las mercancías que se encuentran en ella, acumuladas en un lugar determinado, en tránsito o inmersas en el proceso de producción, y cuyo objetivo es su aplicación empresarial en procesos industriales o comerciales.
+    p.mb-4(data-aos="fade-right") Se entiende por nivel de #[em stock] a la cantidad de existencias de un artículo almacenado en un momento dado, muy puntual para los retailers en las temporadas de Navidad, madre, padre, escolar, entre otras, dependiendo del calendario comercial.
+    p.mb-4(data-aos="fade-left") Existen diversas clases de #[em stock] de mercancía, a saber: 
     
-    .row.mb-4
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         TabsA.color-primario
-          .tarjeta.color-acento-botones.bg7.p-4(titulo="Stock no perecedero")
+          .tarjeta.color-acento-botones.bg7.p-4(titulo="<em>Stock</em> no perecedero")
             .row.justify-content-center.align-items-center
               .col-lg-12.col-md-12.col-12
-                p.mb-3 #[b Stock no perecedero]
+                p.mb-3 #[b #[em Stock] no perecedero]
                 p.mb-0 Lo integran productos y material que no se deterioran con el paso del tiempo y que, por tanto, podrán estar almacenados durante mayores plazos sin perder sus propiedades originales.
-          .tarjeta.color-acento-botones.bg7.p-4(titulo="Stock perecedero")
+          .tarjeta.color-acento-botones.bg7.p-4(titulo="<em>Stock</em> perecedero")
             .row.justify-content-center.align-items-center
               .col-lg-12.col-md-12.col-12
-                p.mb-3 #[b Stock perecedero] 
+                p.mb-3 #[b #[em Stock] perecedero] 
                 p.mb-0 Los productos considerados perecederos son aquellos que, debido a su composición o condiciones, pueden deteriorarse rápidamente y perder sus características originales con el paso del tiempo debido a factores externos. 
-          .tarjeta.color-acento-botones.bg7.p-4(titulo="Stock con fecha de caducidad")
+          .tarjeta.color-acento-botones.bg7.p-4(titulo="<em>Stock</em> con fecha de caducidad")
             .row.justify-content-center.align-items-center
               .col-lg-12.col-md-12.col-12
-                p.mb-3 #[b Stock con fecha de caducidad] 
-                p.mb-0 Puede incluir también al stock perecedero, ya que muchos perecederos cuentan también una fecha limitada para su uso o consumo. Además, incluye aquellos materiales que, aunque no se deterioren con el tiempo, sí cuentan con una fecha límite para su correcta utilización.
-          .tarjeta.color-acento-botones.bg7.p-4(titulo="Stock de ciclo o stock activo")
+                p.mb-3 #[b #[em Stock] con fecha de caducidad] 
+                p.mb-0 Puede incluir también al #[em stock] perecedero, ya que muchos perecederos cuentan también una fecha limitada para su uso o consumo. Además, incluye aquellos materiales que, aunque no se deterioren con el tiempo, sí cuentan con una fecha límite para su correcta utilización.
+          .tarjeta.color-acento-botones.bg7.p-4(titulo="<em>Stock</em> de ciclo o stock activo")
             .row.justify-content-center.align-items-center
               .col-lg-12.col-md-12.col-12
-                p.mb-3 #[b Stock de ciclo o stock activo]
-                p.mb-0 El stock activo también se denomina stock de ciclo, pues hace referencia al número de artículos con los que debe contar una empresa en condiciones normales para satisfacer la demanda de sus consumidores.
-          .tarjeta.color-acento-botones.bg7.p-4(titulo="Stock mínimo")
+                p.mb-3 #[b #[em Stock] de ciclo o #[em stock] activo]
+                p.mb-0 El #[em stock] activo también se denomina #[em stock] de ciclo, pues hace referencia al número de artículos con los que debe contar una empresa en condiciones normales para satisfacer la demanda de sus consumidores.
+          .tarjeta.color-acento-botones.bg7.p-4(titulo="<em>Stock</em> mínimo")
             .row.justify-content-center.align-items-center
               .col-lg-12.col-md-12.col-12
-                p.mb-3 #[b Stock mínimo] 
-                p.mb-0 El stock mínimo es la cantidad básica de artículos que por seguridad se deben disponer en el almacén, para seguir ofreciendo el servicio o producto a los clientes. Consiste en el valor que permite atender la demanda del público, aún en los momentos de mayores ventas.
-          .tarjeta.color-acento-botones.bg7.p-4(titulo="Stock máximo")
+                p.mb-3 #[b #[em Stock] mínimo] 
+                p.mb-0 El #[em stock] mínimo es la cantidad básica de artículos que por seguridad se deben disponer en el almacén, para seguir ofreciendo el servicio o producto a los clientes. Consiste en el valor que permite atender la demanda del público, aún en los momentos de mayores ventas.
+          .tarjeta.color-acento-botones.bg7.p-4(titulo="<em>Stock</em> máximo")
             .row.justify-content-center.align-items-center
               .col-lg-12.col-md-12.col-12
-                p.mb-3 #[b Stock máximo] 
-                p.mb-3 El stock máximo es el mayor volumen de existencias que debe presentar el inventario sin afectar negativamente sus costos. 
+                p.mb-3 #[b #[em Stock] máximo] 
+                p.mb-3 El #[em stock] máximo es el mayor volumen de existencias que debe presentar el inventario sin afectar negativamente sus costos. 
                 p.mb-0 Se determina periódicamente de acuerdo con el tipo de productos, las ventas y los recursos de almacenamiento disponibles.
-          .tarjeta.color-acento-botones.bg7.p-4(titulo="Stock de seguridad")
+          .tarjeta.color-acento-botones.bg7.p-4(titulo="<em>Stock</em> de seguridad")
             .row.justify-content-center.align-items-center
               .col-lg-12.col-md-12.col-12
-                p.mb-3 #[b Stock de seguridad] 
-                p.mb-0 El stock de seguridad es el inventario extra que se tiene en el almacén para hacer frente a imprevistos relacionados con cambios en la demanda o retrasos de los proveedores.
-          .tarjeta.color-acento-botones.bg7.p-4(titulo="Stock en tránsito o en curso")
+                p.mb-3 #[b #[em Stock] de seguridad] 
+                p.mb-0 El #[em stock] de seguridad es el inventario extra que se tiene en el almacén para hacer frente a imprevistos relacionados con cambios en la demanda o retrasos de los proveedores.
+          .tarjeta.color-acento-botones.bg7.p-4(titulo="<em>Stock</em> en tránsito o en curso")
             .row.justify-content-center.align-items-center
               .col-lg-12.col-md-12.col-12
-                p.mb-3 #[b Stock en tránsito o en curso] 
+                p.mb-3 #[b #[em Stock] en tránsito o en curso] 
                 p.mb-0 Es la mercancía que todavía está presente en la empresa porque está en un proceso de producción o comercialización: embalaje, fabricación, en proceso de entrega.
-      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-4.col-md-6.col-7.mb-4.mb-lg-0(data-aos="fade-right")
         img.img-a.img-t(src='@/assets/curso/tema3/img10.png', alt='tema1')
 
-    p.mb-4 La principal función del stock es determinar las cantidades de productos que debe tener la empresa en cada momento. De esta forma se cumple el principio logístico básico de disponer en cada momento de los materiales necesarios con el menor coste posible, con varios fines: 
+    p.mb-4(data-aos="fade-left") La principal función del #[em stock] es determinar las cantidades de productos que debe tener la empresa en cada momento. De esta forma se cumple el principio logístico básico de disponer en cada momento de los materiales necesarios con el menor coste posible, con varios fines: 
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-10.col-md-12.col-12
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema3/img11.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-4 La principal función del stock es determinar las cantidades de productos que debe tener la empresa en cada momento. De esta forma se cumple el principio logístico básico de disponer en cada momento de los materiales necesarios con el menor coste posible, con varios fines: 
+            p.mb-4 La principal función del #[em stock] es determinar las cantidades de productos que debe tener la empresa en cada momento. De esta forma se cumple el principio logístico básico de disponer en cada momento de los materiales necesarios con el menor coste posible, con varios fines: 
               br
               | 
               p 

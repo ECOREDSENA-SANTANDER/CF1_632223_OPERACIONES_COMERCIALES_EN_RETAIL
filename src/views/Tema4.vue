@@ -7,28 +7,28 @@
         span 4
       h1 Gestión de devolución
     
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-10.col-md-12.col-12
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema4/img1.png')})`}"
           )
-          .bloque-texto-g__texto.p-5
+          .bloque-texto-g__texto.p-4.p-lg-5
             p.mb-4 La gestión de devoluciones, también conocida como logística inversa, es un proceso de supervisión de productos que se devuelven a la empresa proveedora.
     
-    p.mb-4 Ahora, se analizarán los siguientes conceptos, relacionados con la gestión de devolución.
+    p.mb-4(data-aos="fade-left") Ahora, se analizarán los siguientes conceptos, relacionados con la gestión de devolución.
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
         h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") a) Devolución: Concepto, procedimiento, formatos
         img.icon(src='@/assets/curso/tema1/icon.svg')
 
-    .row.justify-content-center.align-items-end.mb-4
+    .row.justify-content-center.align-items-end.mb-4(data-aos="fade-right")
       .col-lg-8.col-md-12.col-12.mb-4
-        p.mb-4 La devolución de pedidos o logística inversa se utiliza para coordinar los movimientos de los productos. Su función principal es recuperar el stock teniendo presentes distintas variables, como diferentes trámites administrativos, Re etiquetado, destrucción y reciclaje.
+        p.mb-4 La devolución de pedidos o logística inversa se utiliza para coordinar los movimientos de los productos. Su función principal es recuperar el #[em stock] teniendo presentes distintas variables, como diferentes trámites administrativos, Re etiquetado, destrucción y reciclaje.
         .cajon.color-acento-contenido.p-4
           p.mb-0 El procedimiento de devolución está regulado, según la legislación comercial de cada país, ya que es un procedimiento de gestión tributaria adherido por la declaración que cada organización debe presentar a su sistema tributario. 
-      .col-lg-4.col-md-9.col-9.mb-4
+      .col-lg-4.col-md-7.col-7.mb-4
         img.img-a.img-t(src='@/assets/curso/tema4/img2.png', alt='tema1')
     
     .mb-4.d-flex
@@ -36,10 +36,10 @@
         h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") b) Averías: Concepto, tipos, características
         img.icon(src='@/assets/curso/tema1/icon.svg')
 
-    p.mb-4 En la logística, se conoce como avería a los defectos o desperfectos de los productos, que se ofrecen en la góndola y en la exhibición. 
+    p.mb-4(data-aos="fade-left") En la logística, se conoce como avería a los defectos o desperfectos de los productos, que se ofrecen en la góndola y en la exhibición. 
     p.mb-4 Existen diferentes tipos de averías para un elemento, así: 
     
-    .tarjeta--container.row.mb-5
+    .tarjeta--container.row.mb-5(data-aos="fade-right")
       .col-md.tarjeta.color-primario.bd.p-4
         .row.justify-content-center.mb-4
           h4.text-center Avería permanente
@@ -62,9 +62,9 @@
               img.img-a.img-t(src='@/assets/curso/tema4/img5.svg', alt='Texto que describa la imagen')
         p.text-center Avería que no se hace aparente.
 
-    p.mb-4 Estas averías poseen diferentes características, según como ocurrieron:
+    p.mb-4(data-aos="fade-left") Estas averías poseen diferentes características, según como ocurrieron:
 
-    .row.justify-content-center.align-items-end.mb-5
+    .row.justify-content-center.align-items-end.mb-5(data-aos="fade-right")
       .col-lg-3.col-md-9.col-9.mb-3
         img.img-a.img-t(src='@/assets/curso/tema4/img6.svg', alt='tema1')
       .col-lg-5.col-md-12.col-12
@@ -88,7 +88,7 @@
         h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") c) Reconteo: Concepto, usos Reconteo
         img.icon(src='@/assets/curso/tema1/icon.svg')
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-10.col-md-12.col-12
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -102,8 +102,8 @@
         h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") d) Reportes: Concepto, tipos 
         img.icon(src='@/assets/curso/tema1/icon.svg')
 
-    .row.justify-content-center.align-items-end
-      .col-lg-4.col-md-9.col-9.mb-2
+    .row.justify-content-center.align-items-end(data-aos="fade-right").mb-0
+      .col-lg-4.col-md-7.col-7.mb-2
         img.img-a.img-t(src='@/assets/curso/tema4/img8.png', alt='tema1')
       .col-lg-8.col-md-12.col-12.mb-2
         p.mb-4 El reporte, también llamado informe, es un documento que puede ser impreso, digital o en audiovisual, que busca transferir una información del comportamiento de las ventas de un producto determinado en la góndola.
@@ -121,13 +121,6 @@
                 .h2 2
               h4.mb-3 Análisis de ventas semanal
               p.mb-0 En este punto los informes semanales comenzarán a revelar cualquier situación que deba abordarse de manera inmediata con tu proceso de ventas.
-
-
-
-
-
-
-
 
 
 </template>

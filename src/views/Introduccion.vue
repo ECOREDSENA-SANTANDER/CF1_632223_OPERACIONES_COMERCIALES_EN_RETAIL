@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     
-    p.mb-4 Bienvenidos al componente formativo Manejo de inventarios en el Retail, en el cual se abordarán diversas temáticas con aspectos básicos y fundamentales que se deben tener en cuenta cuando se participa en las operaciones comerciales de una sala de ventas. A continuación, se invita a conocer un poco más de este componente formativo :
+    p.mb-4 Bienvenidos al componente formativo Manejo de inventarios en el Retail, en el cual se abordarán diversas temáticas con aspectos básicos y fundamentales que se deben tener en cuenta cuando se participa en las operaciones comerciales de una sala de ventas. A continuación, se invita a conocer un poco más de este componente formativo:
     
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-12.col-12.col-md-12
