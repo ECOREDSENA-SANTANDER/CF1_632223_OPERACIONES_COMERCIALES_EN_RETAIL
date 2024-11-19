@@ -205,7 +205,7 @@
             p.mb-0 #[b Planificación y Estrategia:] requiere una planificación cuidadosa y la implementación de estrategias para evitar que se repita, como el uso de sistemas de inventario just-in-time o mantener niveles de inventario de seguridad. 
     
     separador
-    #t_3_4.titulo-segundo.mb-5
+    #t_3_5.titulo-segundo.mb-5
       h2 3.5 #[em Stock] de mercancía
 
     p.mb-4(data-aos="fade-left") Se denominan #[em stock] de una empresa a las mercancías que se encuentran en ella, acumuladas en un lugar determinado, en tránsito o inmersas en el proceso de producción, y cuyo objetivo es su aplicación empresarial en procesos industriales o comerciales.
@@ -282,11 +282,6 @@
                 li.d-flex.mb-0
                   i.fas.fa-circle-check
                   p.mb-0 Control de parte del valor del inmovilizado de la empresa.
-
-
-
-
-
 
 </template>
 
