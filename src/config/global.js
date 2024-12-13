@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Manejo de inventarios en el Retail',
+    componenteFormativo: 'Manejo de inventarios en el <em>Retail</em>',
     descripcionCurso:
-      'La logística en retail radica en el conjunto de técnicas necesarias para poder cumplir con el objetivo final de acercar y vender un producto al cliente en su respectiva sala de ventas del formato comercial o retail especializado. Este proceso abarca desde la gestión eficiente del inventario y el almacenamiento, hasta la distribución y transporte del producto, asegurando su disponibilidad en el momento y lugar adecuados.',
+      'La logística en <em>retail</em> radica en el conjunto de técnicas necesarias para poder cumplir con el objetivo final de acercar y vender un producto al cliente en su respectiva sala de ventas del formato comercial o <em>retail</em> especializado. Este proceso abarca desde la gestión eficiente del inventario y el almacenamiento, hasta la distribución y transporte del producto, asegurando su disponibilidad en el momento y lugar adecuados.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -46,28 +46,28 @@ export default {
           },
           {
             numero: '1.2',
-            titulo: 'Inventario: Concepto, característica, clasificación',
+            titulo: 'Inventario: concepto, característica, clasificación',
             hash: 't_1_2',
           },
           {
             numero: '1.3',
-            titulo: 'Recursos: Concepto, tipo, herramientas, clases',
+            titulo: 'Recursos: concepto, tipo, herramientas, clases',
             hash: 't_1_3',
           },
           {
             numero: '1.4',
-            titulo: 'Herramientas: Concepto, clases, usos',
+            titulo: 'Herramientas: concepto, clases, usos',
             hash: 't_1_4',
           },
           {
             numero: '1.5',
-            titulo: 'Código de barras: Concepto, características, tipos ',
+            titulo: 'Código de barras: concepto, características, tipos ',
             hash: 't_1_5',
           },
           {
             numero: '1.6',
             titulo:
-              'Software para la captura de código de barras: Características, funcionalidad, tipos',
+              '<em>Software</em> para la captura de código de barras: características, funcionalidad, tipos',
             hash: 't_1_6',
           },
         ],
@@ -80,23 +80,23 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Toma física: Concepto, herramientas',
+            titulo: 'Toma física: concepto, herramientas',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Toma digital: Concepto, herramientas',
+            titulo: 'Toma digital: concepto, herramientas',
             hash: 't_2_2',
           },
           {
             numero: '2.3',
-            titulo: 'Técnicas de conteo: Tipos, características, clases',
+            titulo: 'Técnicas de conteo: tipos, características, clases',
             hash: 't_2_3',
           },
           {
             numero: '2.4',
             titulo:
-              'Mercancía: Concepto, clases, normativa para manejo de mercancía',
+              'Mercancía: concepto, clases, normativa para manejo de mercancía',
             hash: 't_2_4',
           },
         ],
@@ -109,27 +109,28 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Producto: Concepto, naturaleza, atributos, clases',
+            titulo: 'Producto: concepto, naturaleza, atributos, clases',
             hash: 't_3_1',
           },
           {
             numero: '3.2',
-            titulo: 'Referencias: Concepto, tipos',
+            titulo: 'Referencias: concepto, tipos',
             hash: 't_3_2',
           },
           {
             numero: '3.3',
-            titulo: 'Rotación: Concepto, procedimiento',
+            titulo: 'Rotación: concepto, procedimiento',
             hash: 't_3_3',
           },
           {
             numero: '3.4',
-            titulo: 'Agotados: Concepto, características',
+            titulo: 'Agotados: concepto, características',
             hash: 't_3_4',
           },
           {
             numero: '3.5',
-            titulo: 'Stock de mercancía: Concepto, niveles, clases, funciones',
+            titulo:
+              '<em>Stock</em> de mercancía: concepto, niveles, clases, funciones',
             hash: 't_3_5',
           },
         ],
@@ -244,7 +245,7 @@ export default {
         'lo que la empresa destina a la venta y forma parte de sus ingresos comerciales.',
     },
     {
-      termino: 'Rotura de stock',
+      termino: 'Rotura de <em>stock</em>',
       significado:
         'se produce cuando la demanda no puede ser satisfecha, ya que no se cuenta con mercancía en el almacén.',
     },
@@ -264,7 +265,7 @@ export default {
         'sistema implementado en el almacén para poner precio a sus existencias.',
     },
     {
-      termino: 'Stock',
+      termino: '<em>Stock</em>',
       significado: 'mercadería que se encuentra en el almacén de la empresa.',
     },
     {
@@ -314,7 +315,7 @@ export default {
         {
           nombre: 'Jaime Alberto Pérez Posada',
           cargo: 'Instructor',
-          centro: 'Regional Antioquia – Comercio.',
+          centro: 'Regional Antioquia - Comercio.',
         },
         {
           nombre: 'Zvi Daniel Grosman',
@@ -325,16 +326,22 @@ export default {
           nombre: 'Ana Catalina Córdoba Sus',
           cargo: 'Revisora metodológica y pedagógica',
           centro:
-            'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica.',
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica.',
         },
         {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Corrector de estilo',
+          cargo: 'Asesor Pedagógico',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Sandra Paola Morales Páez ',
+          nombre: 'José Gabriel Ortiz Abella',
+          cargo: 'Corrector de estilo',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica.',
+        },
+        {
+          nombre: 'Sandra Paola Morales Páez',
           cargo: 'Evaluadora instruccional',
           centro: 'Regional Santander - Centro Agroturístico',
         },

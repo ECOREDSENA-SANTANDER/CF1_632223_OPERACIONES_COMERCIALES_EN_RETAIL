@@ -73,13 +73,13 @@
                     img(src='@/assets/curso/tema1/img8.svg', alt='Texto que describa la imagen')
                 .col-md-8
                   h4.mb-4 Gestión de la cadena de suministro
-                  p.mb-4 De acuerdo con las siglas en inglés (SCM), se describe a la gestión de la cadena de suministro como la optimización del espacio y el flujo de un producto desde el abastecimiento de la materia prima hasta la producción, la logística y la entrega al cliente final.
+                  p.mb-4 De acuerdo con las siglas en inglés #[em SCM (Supply Chain Management)], se describe a la gestión de la cadena de suministro como la optimización del espacio y el flujo de un producto desde el abastecimiento de la materia prima hasta la producción, la logística y la entrega al cliente final.
       .col-lg-4.col-md-7.col-7
         img(src="@/assets/curso/tema1/img2.png")
 
     separador
     #t_1_2.titulo-segundo.mb-5
-      h2 1.2. Inventario: Concepto, característica, clasificación 
+      h2 1.2. Inventario: concepto, característica, clasificación 
 
     .row.justify-content-center.align-items-end.mb-4
       .col-lg-4.col-md-7.col-7.mb-4
@@ -141,16 +141,16 @@
         img.mb-3(src='@/assets/curso/tema1/img14.png', alt='Texto que describa la imagen')
       .col-lg-4.col-md-12.col-12.mb-3
         .bg1.p-3
-          p.mb-2 Se entiende por recursos los componentes disponibles para la actividad logística que permiten llevar a cabo las tareas necesarias. Estos recursos, esenciales para cumplir con las funciones en el retail, pueden ser tanto de tipo humano como material. 
-          p.mb-0 Los recursos y sus herramientas dependen del tipo de proceso logístico que se van a desempeñar, en lo relacionado al retail, generalmente se pueden tener las famosas Manitou, elevadores, grúas, transportadoras, remolcadoras, cintas de transportación, pallets, containers, plataformas móviles, entre otros.
+          p.mb-2 Se entiende por recursos los componentes disponibles para la actividad logística que permiten llevar a cabo las tareas necesarias. Estos recursos, esenciales para cumplir con las funciones en el #[em retail], pueden ser tanto de tipo humano como material. 
+          p.mb-0 Los recursos y sus herramientas dependen del tipo de proceso logístico que se van a desempeñar, en lo relacionado al #[em retail], generalmente se pueden tener las famosas #[em Manitou], elevadores, grúas, transportadoras, remolcadoras, cintas de transportación, #[em pallets], #[em containers], plataformas móviles, entre otros.
 
     separador
     #t_1_4.titulo-segundo.mb-5
-      h2 1.4 Herramientas: Concepto, clases, usos
+      h2 1.4 Herramientas: concepto, clases, usos
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-8.col-md-12.col-12.mb-4
-        p.mb-4 En otro orden de ideas, las aplicaciones informáticas de base de datos y hojas de cálculo aplicado a la gestión de inventarios son las más comunes, como herramientas de control en los diferentes retail o formatos comerciales del mercado.
+        p.mb-4 En otro orden de ideas, las aplicaciones informáticas de base de datos y hojas de cálculo aplicado a la gestión de inventarios son las más comunes, como herramientas de control en los diferentes #[em retail] o formatos comerciales del mercado.
         p.mb-4 Para la gestión y control de los inventarios existen en el mercado multitud de #[em softwares] que permiten dicha labor de la manera más eficiente. Evidentemente, dichas aplicaciones son generalmente de pago y producidas por grandes compañías como Microsoft o SAP cuyos costes, en la mayoría de los casos, son imposibles de sufragar para muchas empresas.
         .cajon.color-acento-contenido.p-4.mb-4
           p.mb-0 Existen diferentes empresas, con presupuestos y recursos que varían notablemente en cuantía, esto no debería ser un impedimento para la consecución de herramientas para este fin, ya que a través de aplicaciones como Excel o la utilización de #[em software] libre o gratuito le permitirían tener una gestión aceptable de su proceso de control y gestión de inventarios.
@@ -160,7 +160,7 @@
     
     separador
     #t_1_5.titulo-segundo.mb-5
-      h2 1.5 Código de barras: Concepto, características, tipos 
+      h2 1.5 Código de barras: concepto, características, tipos 
 
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
       .col-lg-4.col-md-7.col-7.mb-4
@@ -261,7 +261,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-12.col-md-12.col-12
                 p.mb-3 #[b Código de barras UPC #[em (Universal Product Code)]]
-                p.mb-0 El código UPC (siglas de Universal Product Code) es un código de barras diseñado especialmente para identificar de manera inequívoca productos y consiste en un número único de 12 dígitos que se representan por barras de diferentes anchos y separación entre ellas para ser legibles por un scanner especializado.
+                p.mb-0 El código UPC (siglas de #[em Universal Product Code]) es un código de barras diseñado especialmente para identificar de manera inequívoca productos y consiste en un número único de 12 dígitos que se representan por barras de diferentes anchos y separación entre ellas para ser legibles por un #[em scanner] especializado.
           .tarjeta.color-acento-botones.bg7.p-4(titulo="Code 39")
             .row.justify-content-center.align-items-center
               .col-lg-12.col-md-12.col-12
@@ -277,7 +277,7 @@
               .col-lg-12.col-md-12.col-12
                 p.mb-3 #[b #[em Interleaved Two of Five (ITF)]]
                 p.mb-0 Es ampliamente utilizado como el código de distribución estándar impreso en cajas de cartón corrugado. Hay varios tipos llamados “2 of 5”. Aunque su composición es similar, el código es completamente diferente.
-          .tarjeta.color-acento-botones.bg7.p-4(titulo="POSTNET")
+          .tarjeta.color-acento-botones.bg7.p-4(titulo="<em>POSTNET</em>")
             .row.justify-content-center.align-items-center
               .col-lg-12.col-md-12.col-12
                 p.mb-3 #[b #[em POSTNET]]
@@ -313,12 +313,12 @@
             .row.justify-content-center.p-4
               .col-lg-12.my-3
                 h4.mb-4 #[em TBarCode Office]
-                p.mb-4 El complemento de código de barras TBarCode Office se integra perfectamente en Microsoft Office y es fácil de utilizar gracias a su intuitiva interfaz de usuario. Además, proporciona acceso a todos los parámetros del código de barras. Esta combinación hace de TBarCode Office el complemento de código de barras más avanzado del mercado.
+                p.mb-4 El complemento de código de barras #[em TBarCode Office] se integra perfectamente en #[em Microsoft Office] y es fácil de utilizar gracias a su intuitiva interfaz de usuario. Además, proporciona acceso a todos los parámetros del código de barras. Esta combinación hace de #[em TBarCode Office] el complemento de código de barras más avanzado del mercado.
                 img(alt="" src="@/assets/curso/tema1/img20.png")
             .row.justify-content-center.p-4
               .col-lg-7.col-12.my-3
                 h4.mb-4 #[em TBarCode SDK]
-                p.mb-4 El componente de #[em software] de código de barras TBarCode “Todo En Uno” (para Microsoft® Windows), genera e imprime todos los códigos de barras con aplicaciones diversas y cualquier tipo de impresora. Este flexible generador de código de barras soporta más de 100 tipos de códigos de barras diferentes. Entre ellos se encuentran códigos de barras lineales y 2D como Code128, EAN128, Datamatrix, QR Code, PDF417, Aztec Code, GS1 DataBar.
+                p.mb-4 El componente de #[em software] de código de barras #[em TBarCode] “Todo En Uno” (para Microsoft® Windows), genera e imprime todos los códigos de barras con aplicaciones diversas y cualquier tipo de impresora. Este flexible generador de código de barras soporta más de 100 tipos de códigos de barras diferentes. Entre ellos se encuentran códigos de barras lineales y 2D como Code128, EAN128, Datamatrix, QR Code, PDF417, Aztec Code, GS1 DataBar.
               .col-lg-4.col-md-7.my-3
                 img(alt="" src="@/assets/curso/tema1/img21.png")
             .row.justify-content-center.p-4

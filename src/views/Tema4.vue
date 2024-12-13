@@ -20,7 +20,7 @@
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
-        h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") a) Devolución: Concepto, procedimiento, formatos
+        h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") a) Devolución: concepto, procedimiento, formatos
         img.icon(src='@/assets/curso/tema1/icon.svg')
 
     .row.justify-content-center.align-items-end.mb-4(data-aos="fade-right")
@@ -33,7 +33,7 @@
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
-        h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") b) Averías: Concepto, tipos, características
+        h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") b) Averías: concepto, tipos, características
         img.icon(src='@/assets/curso/tema1/icon.svg')
 
     p.mb-4(data-aos="fade-left") En la logística, se conoce como avería a los defectos o desperfectos de los productos, que se ofrecen en la góndola y en la exhibición. 
@@ -46,7 +46,7 @@
           .col-6
             figure
               img.img-a.img-t(src='@/assets/curso/tema4/img3.svg', alt='Texto que describa la imagen')
-        p.text-center Avería que persiste hasta que no se elimina por una intervención del surtidor, ejemplo, la fecha de vigencia en los lácteos.
+        p.text-center Avería que persiste hasta que no se elimina por una intervención del surtidor, ejemplo: la fecha de vigencia en los lácteos.
       .col-md.tarjeta.color-primario.bdd.p-4
         .row.justify-content-center.mb-4
           h4.text-center Avería intermitente
@@ -85,7 +85,7 @@
 
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
-        h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") c) Reconteo: Concepto, usos Reconteo
+        h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") c) Reconteo: concepto, usos Reconteo
         img.icon(src='@/assets/curso/tema1/icon.svg')
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
@@ -95,11 +95,11 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema4/img7.png')})`}"
           )
           .bloque-texto-g__texto.p-5
-            p.mb-4 Es un proceso logístico útil porque permite visualizar las ventas, lo que demuestra y permite analizar el tráfico y el número de tickets  que pueden conocer las tasas de conversión.
+            p.mb-4 Es un proceso logístico útil porque permite visualizar las ventas, lo que demuestra y permite analizar el tráfico y el número de #[em tickets] que pueden conocer las tasas de conversión.
     
     .mb-5.d-flex
       .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
-        h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") d) Reportes: Concepto, tipos 
+        h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") d) Reportes: concepto, tipos 
         img.icon(src='@/assets/curso/tema1/icon.svg')
 
     .row.justify-content-center.align-items-end(data-aos="fade-right").mb-0
@@ -114,7 +114,7 @@
               .tarjeta-numerada__numero
                 .h2 1
               h4.mb-3 Reportes de ventas diarias
-              p.mb-0 Trata de la cantidad de actividades comerciales realizadas en las últimas 24 horas. Ejemplo, el comportamiento del producto en la góndola.
+              p.mb-0 Trata de la cantidad de actividades comerciales realizadas en las últimas 24 horas. Ejemplo: el comportamiento del producto en la góndola.
           .col-md-6.col-xl.mb-4.mb-xl-0
             .tarjeta-numerada.color-secundario.p-5
               .tarjeta-numerada__numero

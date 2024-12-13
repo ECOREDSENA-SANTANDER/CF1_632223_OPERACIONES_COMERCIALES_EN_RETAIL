@@ -11,7 +11,7 @@
       .col-lg-4.col-md-7.col-7.mb-4
         img.img-a.img-t(src='@/assets/curso/tema2/img1.png', alt='tema1')
       .col-lg-8.col-md-12.col-12.mb-4
-        p.mb-4 Es el proceso de pedido, almacenamiento y uso del inventario, desde las materias primas hasta el producto terminado, o desde el producto terminado hasta la góndola o exhibición en el punto de venta del cliente o retail determinado. 
+        p.mb-4 Es el proceso de pedido, almacenamiento y uso del inventario, desde las materias primas hasta el producto terminado, o desde el producto terminado hasta la góndola o exhibición en el punto de venta del cliente o #[em retail] determinado. 
         p.mb-4 La política de inventarios debe establecerse para lograr el cumplimiento de dos objetivos muy importantes y específicos: 
         .row
           .col-md-6.col-xl.mb-xl-0.mb-4
@@ -27,11 +27,11 @@
         
     separador
     #t_2_1.titulo-segundo.mb-5
-      h2 2.1 Toma física: Concepto, herramientas 
+      h2 2.1 Toma física: concepto, herramientas 
     
     .row.justify-content-center.align-items-end.mb-4
       .col-lg-8.col-md-12.col-12.mb-4
-        p.mb-4 El inventario físico consiste en corroborar la presencia real de bienes almacenados y verificar su estado y condiciones de seguridad tanto en el almacenamiento como en las respectivas góndolas o lineal del retail o formato comercial. 
+        p.mb-4 El inventario físico consiste en corroborar la presencia real de bienes almacenados y verificar su estado y condiciones de seguridad tanto en el almacenamiento como en las respectivas góndolas o lineal del #[em retail] o formato comercial. 
         .cajon.color-acento-contenido.p-4
           p.mb-0 En consecuencia, la elaboración y verificación de los inventarios físicos (toma física) se debe diligenciar el formato #[b Acta de inicio y terminación de la verificación física del mismo.] Por esta razón, el formato de control de inventarios es un documento que  permite detallar las existencias de productos que se encuentran bajo protección en cada dependencia.
       .col-lg-4.col-md-7.col-7.mb-4
@@ -53,19 +53,19 @@
                   ul.lista-ul.mb-0.ps-3
                     li.d-flex.mb-0
                       i.fas.fa-circle
-                      p.mb-0 #[b Fecha de Inicio:] [Fecha de inicio de la verificación]
+                      p.mb-0 #[b Fecha de Inicio:] [fecha de inicio de la verificación]
                     li.d-flex.mb-0
                       i.fas.fa-circle
-                      p.mb-0 #[b Fecha de Terminación:] [Fecha de terminación de la verificación]
+                      p.mb-0 #[b Fecha de Terminación:] [fecha de terminación de la verificación]
                     li.d-flex.mb-0
                       i.fas.fa-circle
-                      p.mb-0 #[b Lugar:] [Ubicación donde se realiza la verificación]
+                      p.mb-0 #[b Lugar:] [ubicación donde se realiza la verificación]
                     li.d-flex.mb-0
                       i.fas.fa-circle
-                      p.mb-0 #[b Responsable del Proceso:] [Nombre del responsable]
+                      p.mb-0 #[b Responsable del Proceso:] [nombre del responsable]
                     li.d-flex.mb-0
                       i.fas.fa-circle
-                      p.mb-4 #[b Equipo de Verificación:] [Nombres de los miembros del equipo]
+                      p.mb-4 #[b Equipo de Verificación:] [nombres de los miembros del equipo]
                   p.mb-2 #[b II. Objetivo de la Verificación]
                   p.mb-4 El objetivo de esta verificación física del inventario es asegurar la exactitud y confiabilidad de los registros de inventario, y garantizar que el inventario físico coincide con los registros contables.
                   p.mb-2 #[b III. Procedimiento de Verificación]
@@ -103,25 +103,25 @@
                   ul.lista-ul.mb-0.ps-3
                     li.d-flex.mb-0
                       i.fas.fa-circle
-                      p.mb-0 #[b Total, de Ítems Verificados:] [Número total de ítems verificados]
+                      p.mb-0 #[b Total, de Ítems Verificados:] [número total de ítems verificados]
                     li.d-flex.mb-0
                       i.fas.fa-circle
-                      p.mb-0 #[b Discrepancias Encontradas:] [Detalle de las discrepancias encontradas]
+                      p.mb-0 #[b Discrepancias Encontradas:] [detalle de las discrepancias encontradas]
                     li.d-flex.mb-0
                       i.fas.fa-circle
-                      p.mb-4 #[b Ajustes Realizados:] [Detalle de los ajustes realizados en los registros de inventario]
+                      p.mb-4 #[b Ajustes Realizados:] [detalle de los ajustes realizados en los registros de inventario]
                   p.mb-2 #[b V. Conclusiones y Recomendaciones]
                   p.mb-4 [Conclusiones derivadas del proceso de verificación y recomendaciones para futuras acciones.]
                   p.mb-4 #[b VI. Firma de los responsables]
-                  p.mb-2.ps-4 Nombre del responsable del Proceso: [Nombre]
+                  p.mb-2.ps-4 Nombre del responsable del Proceso: [nombre]
                   p.mb-4.ps-4 Firma: _______________________________
                   p.mb-4 #[b VII. Aprobación Final]
-                  p.mb-2.ps-4 Nombre del Supervisor/Director: [Nombre]
+                  p.mb-2.ps-4 Nombre del Supervisor/Director: [nombre]
                   p.mb-4.ps-4 Firma: _______________________________
     
     separador
     #t_2_2.titulo-segundo.mb-5
-      h2 2.2 Toma digital: Concepto, herramientas 
+      h2 2.2 Toma digital: concepto, herramientas 
 
     p.mb-4(data-aos="fade-left") La toma digital, como su nombre lo define, es la utilización y automatización para administrar cualquier almacén, donde se sigue cada movimiento de #[em stock] con un sistema único de inventario de doble entrada.
     p.mb-4(data-aos="fade-right") Entre las herramientas más comunes para realizar esta actividad, tanto en la toma física como en la digital, se incluyen:
@@ -132,7 +132,7 @@
           img(src="@/assets/curso/tema2/img3.svg")
       .col-lg-8.col-md-12.col-12
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-          .row.col-xl-11.m-auto(titulo="<em>Software</em> de alerta de restock")
+          .row.col-xl-11.m-auto(titulo="<em>Software</em> de alerta de <em>restock</em>")
             .row.justify-content-center.align-items-center
               .col-lg-2.mb-4
                 img.img-a.img-t(src="@/assets/curso/tema2/img4.svg")
@@ -183,12 +183,12 @@
 
     separador
     #t_2_3.titulo-segundo.mb-5
-      h2 2.3 Técnicas de conteo: Tipos, características, clases 
+      h2 2.3 Técnicas de conteo: tipos, características, clases 
     
-    p.mb-5(data-aos="fade-left") Se define el conteo para el inventario como la acción o el proceso de cuantificar la cantidad de #[em stock] en poder de un retail o la existencia de productos en una organización. Existen diversas técnicas para inventariar las existencias de productos, definidas de la siguiente manera:
+    p.mb-5(data-aos="fade-left") Se define el conteo para el inventario como la acción o el proceso de cuantificar la cantidad de #[em stock] en poder de un #[em retail] o la existencia de productos en una organización. Existen diversas técnicas para inventariar las existencias de productos, definidas de la siguiente manera:
     
     .row.mb-4(data-aos="fade-right")
-      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-12.mb-4.mb-lg-0(data-aos="fade-right")
         TabsA.color-primario
           .tarjeta.color-acento-botones.bg7.p-4(titulo="Conteo periódico de <em>stock</em>")
             .row.justify-content-center.align-items-center
@@ -199,7 +199,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-12.col-md-12.col-12
                 p.mb-3 #[b Conteo continuo de #[em stock]] 
-                p.mb-0 Este va acompañado de un plan de acción y se realiza de forma continua para el conocimiento del inventario a tiempo real
+                p.mb-0 Este va acompañado de un plan de acción y se realiza de forma continua para el conocimiento del inventario a tiempo real.
           .tarjeta.color-acento-botones.bg7.p-4(titulo="Conteo de precisión")
             .row.justify-content-center.align-items-center
               .col-lg-12.col-md-12.col-12
@@ -215,10 +215,8 @@
               .col-lg-12.col-md-12.col-12
                 p.mb-3 #[b Inventario anual de #[em stock]] 
                 p.mb-0 Este sistema entra en funcionamiento cuando no se realiza un inventario periódico o continuo, y se lleva a cabo un único proceso de inventario para el año en curso. 
-      .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
-        img.img-a.img-t(src='@/assets/curso/tema2/img9.png', alt='tema1')
-
-    p.mb-4(data-aos="fade-left") A continuación, se verá un paso a paso en el proceso de conteo en el retail o almacenamiento de la organización:
+      
+    p.mb-4(data-aos="fade-left") A continuación, se verá un paso a paso en el proceso de conteo en el #[em retail] o almacenamiento de la organización:
     
     .row.justify-content-center.align-items-center
       .col-lg-10.col-md-12.col-12
@@ -312,7 +310,7 @@
 
     separador
     #t_2_4.titulo-segundo.mb-5
-      h2 2.4 Mercancía: Concepto, clases, normativa para manejo de mercancía 
+      h2 2.4 Mercancía: concepto, clases, normativa para manejo de mercancía 
     
     .row.justify-content-center.align-items-end.mb-4(data-aos="fade-right")
       .col-lg-3.col-md-7.col-7.mb-4
@@ -416,7 +414,7 @@
             .p-5
               p.mb-0.text-center Código internacional de mercancías peligrosas.
     
-    p.mb-4(data-aos="fade-left") Es importante tener en cuenta en el retail:
+    p.mb-4(data-aos="fade-left") Es importante tener en cuenta en el #[em retail]:
     
     .row.justify-content-center.align-items-end(data-aos="fade-right")
       .col-lg-3.col-md-7.col-7.mb-3

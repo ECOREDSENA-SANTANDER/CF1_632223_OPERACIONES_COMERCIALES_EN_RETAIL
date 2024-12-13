@@ -23,7 +23,7 @@
     
     separador
     #t_3_1.titulo-segundo.mb-5
-      h2 3.1 Producto: Concepto, naturaleza, atributos, clases
+      h2 3.1 Producto: concepto, naturaleza, atributos, clases
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4.col-md-7.col-7.mb-3
@@ -137,7 +137,7 @@
 
     separador
     #t_3_2.titulo-segundo.mb-5
-      h2 3.2 Referencias: Concepto, tipos
+      h2 3.2 Referencias: concepto, tipos
     
     .row.justify-content-center.align-items-end(data-aos="fade-right")
       .col-lg-4.col-md-7.col-7.mb-4
@@ -146,11 +146,11 @@
         p.mb-4 Al hablar de referencias se hace mención de aquellos productos que buscan llenar una necesidad puntual y específica. Las mismas abarcan el modelo, función, marca, contenido y pueden ser tantas como artículos disponibles.
         p.mb-4 Las referencias son claves para la satisfacción del cliente, para el cumplimiento de sus necesidades o deseos o creando nuevas necesidades con miras a posicionarse en el mercado, generando rentabilidad. 
         .cajon.color-acento-contenido.p-4
-          p.mb-0 La profundidad del surtido en el formato comercial, o retail, mide qué tanto abarca cada referencia según su clasificación y cómo se componen las variaciones a existir, que son necesarias en todo establecimiento comercial.
+          p.mb-0 La profundidad del surtido en el formato comercial, o #[em retail], mide qué tanto abarca cada referencia según su clasificación y cómo se componen las variaciones a existir, que son necesarias en todo establecimiento comercial.
     
     separador
     #t_3_3.titulo-segundo.mb-5
-      h2 3.3 Rotación: Concepto, procedimiento
+      h2 3.3 Rotación: concepto, procedimiento
       
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-8.col-md-12.col-12.mb-4
@@ -162,7 +162,7 @@
 
     separador
     #t_3_4.titulo-segundo.mb-5
-      h2 3.4 Agotados: Concepto, características
+      h2 3.4 Agotados: concepto, características
 
     p.mb-4(data-aos="fade-left") El término "agotados inventarios" se refiere a una situación en la que una empresa no tiene existencias disponibles de uno o más productos en su inventario. Esto ocurre cuando la demanda de los productos supera la oferta disponible, resultando en una falta de #[em stock] para satisfacer las necesidades de los clientes.
     
@@ -174,46 +174,46 @@
           li.d-flex
             .lista-ol--cuadro__vineta
               span A
-            p.mb-0 #[b Falta de Disponibilidad:] No hay existencias de ciertos productos, lo que impide su venta o distribución.
+            p.mb-0 #[b Falta de Disponibilidad:] no hay existencias de ciertos productos, lo que impide su venta o distribución.
           li.d-flex
             .lista-ol--cuadro__vineta
               span B
-            p.mb-0 #[b Pérdida de Ventas:] La ausencia de productos puede llevar a la pérdida de ventas, ya que los clientes no pueden adquirir lo que buscan y pueden recurrir a la competencia.
+            p.mb-0 #[b Pérdida de Ventas:] la ausencia de productos puede llevar a la pérdida de ventas, ya que los clientes no pueden adquirir lo que buscan y pueden recurrir a la competencia.
           li.d-flex 
             .lista-ol--cuadro__vineta
               span C
-            p.mb-0 #[b Impacto en la Satisfacción del Cliente:] La falta de disponibilidad de productos puede afectar negativamente la satisfacción y lealtad del cliente.
+            p.mb-0 #[b Impacto en la Satisfacción del Cliente:] la falta de disponibilidad de productos puede afectar negativamente la satisfacción y lealtad del cliente.
           li.d-flex 
             .lista-ol--cuadro__vineta
               span D
-            p.mb-0 #[b Problemas en la Cadena de Suministro:] Puede ser resultado de problemas en la cadena de suministro, como retrasos en la producción, problemas de transporte o fallos en la gestión de inventarios.
+            p.mb-0 #[b Problemas en la Cadena de Suministro:] puede ser resultado de problemas en la cadena de suministro, como retrasos en la producción, problemas de transporte o fallos en la gestión de inventarios.
           li.d-flex 
             .lista-ol--cuadro__vineta
               span E
-            p.mb-0 #[b Aumento de Costos:] Las empresas pueden incurrir en costos adicionales al intentar acelerar la reposición de inventarios o al implementar medidas temporales para mitigar el impacto.
+            p.mb-0 #[b Aumento de Costos:] las empresas pueden incurrir en costos adicionales al intentar acelerar la reposición de inventarios o al implementar medidas temporales para mitigar el impacto.
           li.d-flex 
             .lista-ol--cuadro__vineta
               span F
-            p.mb-0 #[b Oportunidades de Mejora:] La situación de inventarios agotados puede revelar áreas de mejora en la gestión de inventarios, previsión de demanda y eficiencia operativa.
+            p.mb-0 #[b Oportunidades de Mejora:] la situación de inventarios agotados puede revelar áreas de mejora en la gestión de inventarios, previsión de demanda y eficiencia operativa.
           li.d-flex 
             .lista-ol--cuadro__vineta
               span G
-            p.mb-0 #[b Dependencia de Proveedores:] La falta de productos puede destacar la dependencia de ciertos proveedores y la necesidad de diversificar las fuentes de suministro.
+            p.mb-0 #[b Dependencia de Proveedores:] la falta de productos puede destacar la dependencia de ciertos proveedores y la necesidad de diversificar las fuentes de suministro.
           li.d-flex 
             .lista-ol--cuadro__vineta
               span H
-            p.mb-0 #[b Planificación y Estrategia:] requiere una planificación cuidadosa y la implementación de estrategias para evitar que se repita, como el uso de sistemas de inventario just-in-time o mantener niveles de inventario de seguridad. 
+            p.mb-0 #[b Planificación y Estrategia:] requiere una planificación cuidadosa y la implementación de estrategias para evitar que se repita, como el uso de sistemas de inventario #[em just-in-time] o mantener niveles de inventario de seguridad. 
     
     separador
     #t_3_5.titulo-segundo.mb-5
       h2 3.5 #[em Stock] de mercancía
 
     p.mb-4(data-aos="fade-left") Se denominan #[em stock] de una empresa a las mercancías que se encuentran en ella, acumuladas en un lugar determinado, en tránsito o inmersas en el proceso de producción, y cuyo objetivo es su aplicación empresarial en procesos industriales o comerciales.
-    p.mb-4(data-aos="fade-right") Se entiende por nivel de #[em stock] a la cantidad de existencias de un artículo almacenado en un momento dado, muy puntual para los retailers en las temporadas de Navidad, madre, padre, escolar, entre otras, dependiendo del calendario comercial.
+    p.mb-4(data-aos="fade-right") Se entiende por nivel de #[em stock] a la cantidad de existencias de un artículo almacenado en un momento dado, muy puntual para los #[em retailers] en las temporadas de Navidad, madre, padre, escolar, entre otras, dependiendo del calendario comercial.
     p.mb-4(data-aos="fade-left") Existen diversas clases de #[em stock] de mercancía, a saber: 
     
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12.mb-4.mb-lg-0(data-aos="fade-right")
         TabsA.color-primario
           .tarjeta.color-acento-botones.bg7.p-4(titulo="<em>Stock</em> no perecedero")
             .row.justify-content-center.align-items-center
@@ -230,7 +230,7 @@
               .col-lg-12.col-md-12.col-12
                 p.mb-3 #[b #[em Stock] con fecha de caducidad] 
                 p.mb-0 Puede incluir también al #[em stock] perecedero, ya que muchos perecederos cuentan también una fecha limitada para su uso o consumo. Además, incluye aquellos materiales que, aunque no se deterioren con el tiempo, sí cuentan con una fecha límite para su correcta utilización.
-          .tarjeta.color-acento-botones.bg7.p-4(titulo="<em>Stock</em> de ciclo o stock activo")
+          .tarjeta.color-acento-botones.bg7.p-4(titulo="<em>Stock</em> de ciclo o <em>stock</em> activo")
             .row.justify-content-center.align-items-center
               .col-lg-12.col-md-12.col-12
                 p.mb-3 #[b #[em Stock] de ciclo o #[em stock] activo]
@@ -256,11 +256,7 @@
               .col-lg-12.col-md-12.col-12
                 p.mb-3 #[b #[em Stock] en tránsito o en curso] 
                 p.mb-0 Es la mercancía que todavía está presente en la empresa porque está en un proceso de producción o comercialización: embalaje, fabricación, en proceso de entrega.
-      .col-lg-4.col-md-6.col-7.mb-4.mb-lg-0(data-aos="fade-right")
-        img.img-a.img-t(src='@/assets/curso/tema3/img10.png', alt='tema1')
-
-    p.mb-4(data-aos="fade-left") La principal función del #[em stock] es determinar las cantidades de productos que debe tener la empresa en cada momento. De esta forma se cumple el principio logístico básico de disponer en cada momento de los materiales necesarios con el menor coste posible, con varios fines: 
-
+    
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-10.col-md-12.col-12
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
