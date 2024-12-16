@@ -134,7 +134,7 @@
 
     separador
     #t_1_3.titulo-segundo.mb-5
-      h2 1.3 Recursos: Concepto, tipo, herramientas, clases 
+      h2 1.3 Recursos: concepto, tipo, herramientas, clases 
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-4.col-md-7.col-7.mb-3
