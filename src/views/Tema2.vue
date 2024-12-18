@@ -345,15 +345,13 @@
         img.img-a.img-t(src='@/assets/curso/tema2/img25.png', alt='tema1')
 
     p.mb-4(data-aos="fade-left") Cuando eso sucede, es decir, cuando se transporta, la mercancía adquiere la consideración de “carga”. Así, la mercancía se considera una carga desde el momento en que pasa a ser un elemento que va a ser movido y trasladado o enviado desde un punto de origen a otro de destino, para lo que con toda probabilidad deberá ser embalado, manipulado, manejado o almacenado.
-    p.mb-4(data-aos="fade-right") Las mercancías o productos pueden ser sólidos, líquidos o gaseosos y se clasifican en: 
+    p.mb-5(data-aos="fade-right") Las mercancías o productos pueden ser sólidos, líquidos o gaseosos y se clasifican en: 
 
     .row.justify-content-center(data-aos="zoom-in-left")(alt="La imagen expone cómo los bienes materiales se clasifican en cuatro categorías: materias primas, que son sustancias naturales no transformadas; productos en bruto, que requieren acondicionamiento o transporte especializado debido a sus características; semiproductos o productos intermedios, que han pasado por un proceso de transformación y se integrarán en etapas productivas posteriores; y productos elaborados, que son bienes terminados destinados al consumo final tras haber sido transformados a partir de materias primas o productos intermedios.")
       .col-lg-8.col-md-12.col-12
-        .titulo-sexto.colorr
-          h5 Figura 1. 
-          | Clasificación mercancías o productos
+        
 
-        .row.justify-content-center.mb-2(data-aos="fade-down")(alt='La imagen expone cómo los bienes materiales se clasifican en cuatro categorías: materias primas, que son sustancias naturales no transformadas; productos en bruto, que requieren acondicionamiento o transporte especializado debido a sus características; semiproductos o productos intermedios, que han pasado por un proceso de transformación y se integrarán en etapas productivas posteriores; y productos elaborados, que son bienes terminados destinados al consumo final tras haber sido transformados a partir de materias primas o productos intermedios.')
+        .row.justify-content-center.mb-2(data-aos="fade-down")
           .col-md-6.col-lg-6.mb-3
             .tarjeta.bg9.cuad
               .p-4
@@ -361,14 +359,14 @@
                 p Sustancias, minerales o materiales naturales que no han sido sometidos a un proceso de transformación.
             img.img-a.img-t.d-none.d-lg-block.mov1(src='@/assets/curso/tema2/img30.svg', alt='tema1')
           
-          .col-md-6.col-lg-6.mb-3(alt='La imagen expone cómo los bienes materiales se clasifican en cuatro categorías: materias primas, que son sustancias naturales no transformadas; productos en bruto, que requieren acondicionamiento o transporte especializado debido a sus características; semiproductos o productos intermedios, que han pasado por un proceso de transformación y se integrarán en etapas productivas posteriores; y productos elaborados, que son bienes terminados destinados al consumo final tras haber sido transformados a partir de materias primas o productos intermedios.')
+          .col-md-6.col-lg-6.mb-3
             .tarjeta.bg9.cuad
               .p-4
                 h5.text-right.mb-4 Productos en bruto
                 p.text-right Sustancias, minerales o materiales, ya sean naturales o artificiales, que debido a sus características de volumen o requerimientos específicos necesitan acondicionamiento o transporte especializado para su traslado. 
             img.img-a.img-t.d-none.d-lg-block.mov2(src='@/assets/curso/tema2/img31.svg', alt='tema1')
 
-        .row.justify-content-center.mb-5(data-aos="fade-down")(alt='La imagen expone cómo los bienes materiales se clasifican en cuatro categorías: materias primas, que son sustancias naturales no transformadas; productos en bruto, que requieren acondicionamiento o transporte especializado debido a sus características; semiproductos o productos intermedios, que han pasado por un proceso de transformación y se integrarán en etapas productivas posteriores; y productos elaborados, que son bienes terminados destinados al consumo final tras haber sido transformados a partir de materias primas o productos intermedios.')
+        .row.justify-content-center.mb-5(data-aos="fade-down")
           .col-md-6.col-lg-6.mb-3
             .tarjeta.bg9.cuad
               .p-4
@@ -377,7 +375,7 @@
                 p Sustancias o materiales naturales o artificiales que han sido sometidos a un proceso de transformación, estos posteriormente se integrarán dentro de un proceso productivo posterior.
             img.img-a.img-t.d-none.d-lg-block.mov3(src='@/assets/curso/tema2/img32.svg', alt='tema1')
           
-          .col-md-6.col-lg-6.mb-3(alt='La imagen expone cómo los bienes materiales se clasifican en cuatro categorías: materias primas, que son sustancias naturales no transformadas; productos en bruto, que requieren acondicionamiento o transporte especializado debido a sus características; semiproductos o productos intermedios, que han pasado por un proceso de transformación y se integrarán en etapas productivas posteriores; y productos elaborados, que son bienes terminados destinados al consumo final tras haber sido transformados a partir de materias primas o productos intermedios.')
+          .col-md-6.col-lg-6.mb-3
             .tarjeta.bg9.cuad
               .p-4
                 h5.text-right.mb-5 Productos elaborados
