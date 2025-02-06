@@ -146,7 +146,7 @@
         p.mb-4 Al hablar de referencias se hace mención de aquellos productos que buscan llenar una necesidad puntual y específica. Las mismas abarcan el modelo, función, marca, contenido y pueden ser tantas como artículos disponibles.
         p.mb-4 Las referencias son claves para la satisfacción del cliente, para el cumplimiento de sus necesidades o deseos o creando nuevas necesidades con miras a posicionarse en el mercado, generando rentabilidad. 
         .cajon.color-acento-contenido.p-4
-          p.mb-0 La profundidad del surtido en el formato comercial, o #[em retail], mide qué tanto abarca cada referencia según su clasificación y cómo se componen las variaciones a existir, que son necesarias en todo establecimiento comercial.
+          p.mb-0 La profundidad del surtido en el formato comercial, o #[em Retail], mide qué tanto abarca cada referencia según su clasificación y cómo se componen las variaciones a existir, que son necesarias en todo establecimiento comercial.
     
     separador
     #t_3_3.titulo-segundo.mb-5
@@ -209,7 +209,7 @@
       h2 3.5 #[em Stock] de mercancía
 
     p.mb-4(data-aos="fade-left") Se denominan #[em stock] de una empresa a las mercancías que se encuentran en ella, acumuladas en un lugar determinado, en tránsito o inmersas en el proceso de producción, y cuyo objetivo es su aplicación empresarial en procesos industriales o comerciales.
-    p.mb-4(data-aos="fade-right") Se entiende por nivel de #[em stock] a la cantidad de existencias de un artículo almacenado en un momento dado, muy puntual para los #[em retailers] en las temporadas de Navidad, madre, padre, escolar, entre otras, dependiendo del calendario comercial.
+    p.mb-4(data-aos="fade-right") Se entiende por nivel de #[em stock] a la cantidad de existencias de un artículo almacenado en un momento dado, muy puntual para los #[em Retailers] en las temporadas de Navidad, madre, padre, escolar, entre otras, dependiendo del calendario comercial.
     p.mb-4(data-aos="fade-left") Existen diversas clases de #[em stock] de mercancía, a saber: 
     
     .row.justify-content-center.align-items-center.mb-5

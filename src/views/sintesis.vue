@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 El manejo de inventarios en el #[em retail] implica una serie de procesos integrados que abarcan desde la logística y clasificación de inventarios en el punto de venta hasta la toma física y digital de estos. Se utilizan herramientas tecnológicas como códigos de barras y #[em software] especializado para garantizar una gestión eficiente. Además, se presta atención a la naturaleza y atributos de los productos, asegurando una rotación adecuada y una gestión óptima del #[em stock]. Finalmente, se incluyen procesos para gestionar devoluciones, identificando averías y realizando los reportes correspondientes para mantener un control riguroso y actualizado del inventario.
+    p.mb-5 El manejo de inventarios en el #[em Retail] implica una serie de procesos integrados que abarcan desde la logística y clasificación de inventarios en el punto de venta hasta la toma física y digital de estos. Se utilizan herramientas tecnológicas como códigos de barras y #[em software] especializado para garantizar una gestión eficiente. Además, se presta atención a la naturaleza y atributos de los productos, asegurando una rotación adecuada y una gestión óptima del #[em stock]. Finalmente, se incluyen procesos para gestionar devoluciones, identificando averías y realizando los reportes correspondientes para mantener un control riguroso y actualizado del inventario.
 
     .row.justify-content-center
       .col-lg-12.mb-5

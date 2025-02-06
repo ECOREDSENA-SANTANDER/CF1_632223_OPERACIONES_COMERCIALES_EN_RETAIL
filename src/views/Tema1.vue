@@ -141,8 +141,8 @@
         img.mb-3(src='@/assets/curso/tema1/img14.png', alt='Texto que describa la imagen')
       .col-lg-4.col-md-12.col-12.mb-3
         .bg1.p-3
-          p.mb-2 Se entiende por recursos los componentes disponibles para la actividad logística que permiten llevar a cabo las tareas necesarias. Estos recursos, esenciales para cumplir con las funciones en el #[em retail], pueden ser tanto de tipo humano como material. 
-          p.mb-0 Los recursos y sus herramientas dependen del tipo de proceso logístico que se van a desempeñar, en lo relacionado al #[em retail], generalmente se pueden tener las famosas #[em Manitou], elevadores, grúas, transportadoras, remolcadoras, cintas de transportación, #[em pallets], #[em containers], plataformas móviles, entre otros.
+          p.mb-2 Se entiende por recursos los componentes disponibles para la actividad logística que permiten llevar a cabo las tareas necesarias. Estos recursos, esenciales para cumplir con las funciones en el #[em Retail], pueden ser tanto de tipo humano como material. 
+          p.mb-0 Los recursos y sus herramientas dependen del tipo de proceso logístico que se van a desempeñar, en lo relacionado al #[em Retail], generalmente se pueden tener las famosas #[em Manitou], elevadores, grúas, transportadoras, remolcadoras, cintas de transportación, #[em pallets], #[em containers], plataformas móviles, entre otros.
 
     separador
     #t_1_4.titulo-segundo.mb-5
@@ -150,10 +150,10 @@
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-8.col-md-12.col-12.mb-4
-        p.mb-4 En otro orden de ideas, las aplicaciones informáticas de base de datos y hojas de cálculo aplicado a la gestión de inventarios son las más comunes, como herramientas de control en los diferentes #[em retail] o formatos comerciales del mercado.
+        p.mb-4 En otro orden de ideas, las aplicaciones informáticas de base de datos y hojas de cálculo aplicado a la gestión de inventarios son las más comunes, como herramientas de control en los diferentes #[em Retail] o formatos comerciales del mercado.
         p.mb-4 Para la gestión y control de los inventarios existen en el mercado multitud de #[em softwares] que permiten dicha labor de la manera más eficiente. Evidentemente, dichas aplicaciones son generalmente de pago y producidas por grandes compañías como Microsoft o SAP cuyos costes, en la mayoría de los casos, son imposibles de sufragar para muchas empresas.
         .cajon.color-acento-contenido.p-4.mb-4
-          p.mb-0 Existen diferentes empresas, con presupuestos y recursos que varían notablemente en cuantía, esto no debería ser un impedimento para la consecución de herramientas para este fin, ya que a través de aplicaciones como Excel o la utilización de #[em software] libre o gratuito le permitirían tener una gestión aceptable de su proceso de control y gestión de inventarios.
+          p.mb-0 Existen diferentes empresas, con presupuestos y recursos que varían notablemente en cuantía, esto no debería ser un impedimento para la consecución de herramientas para este fin, ya que a través de aplicaciones como #[em Excel] o la utilización de #[em software] libre o gratuito le permitirían tener una gestión aceptable de su proceso de control y gestión de inventarios.
         p.mb-4 En aquellas empresas donde los inventarios adquieren volúmenes realmente grandes, la utilización de estas herramientas ofimáticas no resulta viable ni eficaz, por lo que recurrir a las aplicaciones de pago antes mencionadas es la única opción que tienen para realizar una correcta gestión de sus inventarios.
       .col-lg-4.col-md-7.col-7
         img.img-a.img-t(src='@/assets/curso/tema1/img15.svg', alt='tema1')
